@@ -1,0 +1,8 @@
+PREFIX : <#>
+
+:rust a :Lang.
+:bash a :Lang.
+:go a :Lang.
+:python a :Lang.
+:c a :Lang.
+:cpp a :Lang.
