@@ -41,6 +41,12 @@ So automation is necessary, first filter with API and LLM, then human edit.
 - rust newbie for practice
 - to earn stars with rust
 
+## Philosophy
+
+- Integration is important, e.g.
+  - language bindings: nodejs, python, c/c++, go, dotnet, cli
+  - tool integration: neovim, vscode
+
 ## Useful Resources
 
 - [Pelmers's GitHub Metadata](https://github.com/pelmers/github-repository-metadata): outdated but comprehensive
